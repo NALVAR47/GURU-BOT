@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['48888882100', '𐏕˹ꭗ 𝑵͢ꭺ͢ꮮ͢ꮴ͢ꮜ͢ꮢ ꭗ˼𐏕', true],
+  ['918590479072', 'NALVAR', true], 
   [''] 
 ] //Number of owners
 
@@ -50,13 +50,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𐏕⫷˹ꭗ 𝑵͢ꭺ͢ꮮ͢ꮴ͢ꮜ͢ꮢ ꭗ˼⫸𐏕'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
+global.packname = '⚚ 𓆩 ℭ𝔯𝔢𝔞𝔱𝔢𝔡 𝔣𝔯𝔬𝔪 𓆪 ⚚' 
+global.author = '𐏕˹ꭗ 𝑵͢ꭺ͢ꮮ͢ꮴ͢ꮜ͢ꮢ ꭗ˼𐏕' 
+global.menuvid = 'https://telegra.ph/file/68d2e630248976426c4d0.mp4'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/_thefeels___\n' 
+global.dygp = 'https://wa.me/48888882100'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
@@ -72,7 +72,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' 
+global.maxwarn = '3' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
